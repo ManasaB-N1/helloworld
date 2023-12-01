@@ -6,3 +6,5 @@ This repository is built step by step in the tutorial
 
 
 HELLLLOOOOO WORLDDD
+
+It now includes steps for GIT HUB Repository
